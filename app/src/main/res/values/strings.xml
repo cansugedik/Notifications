@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Notifications</string>
+    <string name="floating_button">floating_button</string>
+    <string name="news">news</string>
+    <string name="article_added_message">article_added_message</string>
+    <string name="article_already_saved">article_already_saved</string>
+    <string name="share_news_link">share_news_link</string>
+    <string name="home">home</string>
+    <string name="favorite">favorite</string>
+    <string name="search">search</string>
+</resources>
